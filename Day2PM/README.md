@@ -105,6 +105,7 @@ print(torch.__version__)
     ```
    cd /home/$USER
    mkdir /home/$USER/scratch/SS21
+   cd /home/$USER/scratch/SS21
    ```
    
 
