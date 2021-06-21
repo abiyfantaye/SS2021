@@ -166,3 +166,5 @@ print(torch.__version__)
     squeue -u $USER
     ```
 You can find more information at [Compute Canada wiki](https://docs.computecanada.ca/wiki/Running_jobs)
+
+![virtualenv3](https://github.com/isaacyeSN/SS2021/blob/main/Day2PM/CC_gpu.png)
