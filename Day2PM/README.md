@@ -69,6 +69,7 @@ To install PyTorch, just type:
 
 ```
 pip install --no-index torch
+pip install --no-index torch torchvision torchtext torchaudio
 ```
 
 The portion of this command that specifies the local wheelhouse install is "--no-index". If this is not present, pip will attempt to download the wheel from the internet. 
