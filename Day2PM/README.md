@@ -114,13 +114,13 @@ print(torch.__version__)
    **For CPU**:
    
    ```
-    salloc --time=0-30:0 --ntasks=1 --cpus-per-task=3 --mem=8G --account=def-training-wa_cpu --reservation=snss-wr_cpu 
+    salloc --time=0-0:30:0 --ntasks=1 --cpus-per-task=3 --mem=8G --account=def-training-wa_cpu --reservation=snss-wr_cpu 
    ```
 
    **For GPU**:
    
    ```
-    salloc --time=0-30:0 --ntasks=1 --gres=gpu:1 --cpus-per-task=3 --mem=8G --account=def-training-wa_gpu --reservation=snss-wr_gpu
+    salloc --time=0-0:30:0 --ntasks=1 --gres=gpu:1 --cpus-per-task=3 --mem=8G --account=def-training-wa_gpu --reservation=snss-wr_gpu
    ```
 
 3. virtual environment
@@ -146,7 +146,7 @@ print(torch.__version__)
     #SBATCH --cpus-per-task=3
     #SBATCH --gres=gpu:1
     #SBATCH --mem=8G
-    #SBATCH --time=0-30:00
+    #SBATCH --time=0-0:30:00
     #SBATCH --account=def-training-wa_gpu
     #SBATCH --reservation=snss-wr_gpu
     #SBATCH --output=slurm.%x.%j.out
