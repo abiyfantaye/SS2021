@@ -131,7 +131,7 @@ print(torch.__version__)
     source ~/VENV/bin/activate
     ```
 
-4. Run it 
+4. Run it (make sure you have your code in the directory above) 
     ```
     python SS20_lab3_LR_MLPg.py
     ```
