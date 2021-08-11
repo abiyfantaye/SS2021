@@ -25,7 +25,7 @@ _* Basic knowledge on Python and Object Oriented Programming is prerequisite for
 
 
 ---
-## Day 1 - Afternoon (1:30 PM - 5:00 PM)
+## Day 1 - Afternoon (1:00 PM - 4:00 PM)
 
 **What we cover**
 * Multi-Layer Perceptron for linear regression
@@ -44,7 +44,7 @@ _* Basic knowledge on Python and Object Oriented Programming is prerequisite for
 * How to run PyTorch ML code on Graham in Compute Canada
 
 ---
-## Day 2 - Afternoon (1:30 PM - 5:00 PM)
+## Day 2 - Afternoon (1:00 PM - 4:00 PM)
 
 **What we cover**
 * Recurrent Neural Network
