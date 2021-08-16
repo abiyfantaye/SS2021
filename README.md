@@ -1,6 +1,6 @@
 # Summer School 2021
 
-Deep learning has been getting lots of attention from many different fields including business/finance, image handling and even science simulation. 2-Day Deep learning course in Summer School 2021 will be a good foundation course for who wants to actually program it. The course will proceed with presentation and live demonstration using Google Colab and eventually will help the student to run his/her code on Graham cluster. 
+Deep learning has been getting lots of attention from many different fields including business/finance, image handling and even science simulation. 2-Day Deep learning course in Summer School 2021 will be a good foundation course for who wants to actually program it. The course will proceed with presentation and live demonstration using Google Colab.
 
 Day 1 will cover Multivariable linear regression and MNIST image classification using linear and Multi-Layer Perceptron (MLP) including some techniques to avoid overfitting. Day 2 will cover CIFAR10 image classification with Convolutional Neural Network and a simple example using Recurrent Neural Network. 
 
@@ -41,7 +41,6 @@ _* Basic knowledge on Python and Object Oriented Programming is prerequisite for
 * Logistic model, cross entropy function
 * Convolutional Neural Network
 * Gradient Vanishing
-* How to run PyTorch ML code on Graham in Compute Canada
 
 ---
 ## Day 2 - Afternoon (1:00 PM - 4:00 PM)
