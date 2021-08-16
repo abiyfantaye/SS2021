@@ -1,4 +1,4 @@
-## Day 1 - Afternoon (1:30 PM - 4:00 PM)
+## Day 1 - Afternoon (1:00 PM - 4:00 PM)
 
 **What we cover**
 * Multi-Layer Perceptron for linear regression
